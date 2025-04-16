@@ -1,0 +1,2 @@
+,Train Loss,Test Loss,Train Accuracy,Test Accuracy,Train Precision,Test Precision,Train Recall,Test Recall
+VGG16,0.19,0.24,0.98,0.96,0.99,0.97,0.95,0.93
